@@ -1,6 +1,6 @@
-## Final Project - W207 Applied Machine Learning
+## Tox21 Structure-Activity Relationship Models
 
-### Tox21 Structure-Activity Relationship Models
+### Final Project - W207 Applied Machine Learning (Summer 2021)
 
 In this project, we explore combinations of featurization techniques and simple classifier models to study structure-activity relationships using the NR-AhR dataset from the [Tox21 Data Challenge](https://tripod.nih.gov/tox21/challenge/about.jsp).
 
